@@ -18,7 +18,7 @@
     "gulp-rsync": "*",<% } %>
     "gulp-util": "*",
     "merge-stream": "*",
-    "phaser": "*",
+    "phaser-ce": "*",
     "vinyl-source-stream": "*",
     "watchify": "*"
   }
